@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f91bf3c-91e8-4323-9ff5-5b4c57f2c260" name="Changes" comment="Random Input And Output program done">
-      <change afterPath="$PROJECT_DIR$/src/practiceExercise3/LargestInArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceExercise4/sumWithoutSmallest.java" afterDir="false" />
+    <list default="true" id="2f91bf3c-91e8-4323-9ff5-5b4c57f2c260" name="Changes" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceExercise4/sumWithoutSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceExercise4/sumWithoutSmallest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     "Application.FirstArray.executor": "Run",
     "Application.LargestInArrayList.executor": "Run",
     "Application.RandomInputAndOutput.executor": "Run",
+    "Application.sumWithoutSmallest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -112,13 +112,22 @@
       <option name="project" value="LOCAL" />
       <updated>1716265787483</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1716266814766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716266814766</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Git Initialized and first array using all method is done" />
     <MESSAGE value="10 Number Input and Output Program done" />
     <MESSAGE value="Random Input And Output program done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Random Input And Output program done" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
