@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f91bf3c-91e8-4323-9ff5-5b4c57f2c260" name="Changes" comment="Updated">
+    <list default="true" id="2f91bf3c-91e8-4323-9ff5-5b4c57f2c260" name="Changes" comment="Sum Without Smallest Code done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/practiceExercise4/sumWithoutSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceExercise4/sumWithoutSmallest.java" afterDir="false" />
     </list>
@@ -23,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mkasiam"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mkasiam&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mkasiam/JavaArraysAndArrayLists.git",
-    "accountId": "13d15839-3bdd-4063-8713-04b5be222c4b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mkasiam/JavaArraysAndArrayLists.git&quot;,
+    &quot;accountId&quot;: &quot;13d15839-3bdd-4063-8713-04b5be222c4b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2glAQRiGMg7MyHOf0S4WiwPU15B" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,19 +46,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayInputOutput.executor": "Run",
-    "Application.FirstArray.executor": "Run",
-    "Application.LargestInArrayList.executor": "Run",
-    "Application.RandomInputAndOutput.executor": "Run",
-    "Application.sumWithoutSmallest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/home/mkasiam/IdeaProjects/JavaReviewExercise7/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayInputOutput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestInArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomInputAndOutput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumWithoutSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/mkasiam/IdeaProjects/JavaReviewExercise7/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="RandomInputAndOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceExercise2.RandomInputAndOutput" />
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716266814766</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Sum Without Smallest Code done">
+      <option name="closed" value="true" />
+      <created>1716267848603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716267848603</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +136,7 @@
     <MESSAGE value="10 Number Input and Output Program done" />
     <MESSAGE value="Random Input And Output program done" />
     <MESSAGE value="Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+    <MESSAGE value="Sum Without Smallest Code done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum Without Smallest Code done" />
   </component>
 </project>
