@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f91bf3c-91e8-4323-9ff5-5b4c57f2c260" name="Changes" comment="Sum Without Smallest Code done">
+    <list default="true" id="2f91bf3c-91e8-4323-9ff5-5b4c57f2c260" name="Changes" comment="Sum Without Smallest Code done in different way">
+      <change afterPath="$PROJECT_DIR$/src/practice10Again/ArrayListsNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice10Again/ChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice10Again/DataSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice10Again/DataSet1Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice10Again/Medals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice10Again/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice10Again/QuestionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice10Again/SwapNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice10Again/practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceExercise10/DataSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceExercise10/DataSetRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceExercise6/AlternatingSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceExercise7/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceExercise4/sumWithoutSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceExercise4/sumWithoutSmallest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +60,19 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.AlternatingSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayInputOutput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListsNew.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataSet1Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataSetRunner.executor&quot;: &quot;Run&quot;,
     &quot;Application.FirstArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.LargestInArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Medals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
     &quot;Application.RandomInputAndOutput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice1.executor&quot;: &quot;Run&quot;,
     &quot;Application.sumWithoutSmallest.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -59,13 +80,65 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/mkasiam/IdeaProjects/JavaReviewExercise7/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="RandomInputAndOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceExercise2.RandomInputAndOutput" />
+  <component name="RunManager" selected="Application.ArrayListsNew">
+    <configuration name="ArrayListsNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice10Again.ArrayListsNew" />
       <module name="JavaReviewExercise7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceExercise2.*" />
+          <option name="PATTERN" value="practice10Again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataSet1Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice10Again.DataSet1Runner" />
+      <module name="JavaReviewExercise7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice10Again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataSetRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceExercise10.DataSetRunner" />
+      <module name="JavaReviewExercise7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceExercise10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Medals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice10Again.Medals" />
+      <module name="JavaReviewExercise7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice10Again.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice10Again.practice1" />
+      <module name="JavaReviewExercise7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice10Again.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,7 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomInputAndOutput" />
+        <item itemvalue="Application.ArrayListsNew" />
+        <item itemvalue="Application.Medals" />
+        <item itemvalue="Application.DataSet1Runner" />
+        <item itemvalue="Application.practice1" />
+        <item itemvalue="Application.DataSetRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716267848603</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sum Without Smallest Code done in different way">
+      <option name="closed" value="true" />
+      <created>1716349061085</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716349061085</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,6 +222,18 @@
     <MESSAGE value="Random Input And Output program done" />
     <MESSAGE value="Updated" />
     <MESSAGE value="Sum Without Smallest Code done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum Without Smallest Code done" />
+    <MESSAGE value="Sum Without Smallest Code done in different way" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum Without Smallest Code done in different way" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice10Again/ArrayListsNew.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
